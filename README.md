@@ -12,7 +12,7 @@ Download and unzip FBooster.
 Run Setup.bat.\
 Once everything is installed the file will run itself.\
 Type /fps in the application and select the game you want.\
-Specific how many cpu threads should use.\
+Specify how many cpu threads should use.\
 Now you can set back and white while FBooster installs. (it takes around 5 to 10 minutes depending on your machine.)\
 
 
